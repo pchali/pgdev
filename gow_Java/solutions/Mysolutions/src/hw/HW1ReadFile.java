@@ -22,9 +22,10 @@ public class HW1ReadFile {
 				if (line == null)
 					eof = true;
 				else {
-					StringTokenizer st = new StringTokenizer(line," .");
+					StringTokenizer st = new StringTokenizer(line," \t\n\r\f,.:;?![]'");
 					while(st.hasMoreElements()){
 						String currword = st.nextToken();
+						currword=currword.toLowerCase();
 					if(map.containsKey(currword)&&map.get(currword)!=null){
 						int count=map.get(currword);
 						count++;
