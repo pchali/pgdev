@@ -1,0 +1,33 @@
+------------------------------------------------------------------
+Home Work 1 -- JAVA File Program -- Due 8/6/2014 9:00 PM
+------------------------------------------------------------------
+
+WARNING: N/A
+
+NOTE: 
+1) Program should run on a sample.txt file and display results
+2) Punctuation (comma, dot etc) should be avoided
+
+I) Write a Java program that reads a file "sample.txt" which has several lines of text in it. 
+The program should print the list of all the unique words in the text along with the number of times each word appears.
+
+Example:
+sample.txt
+I am a sample file.
+I like to be simple but not sample.
+I like to be in dropbox.
+
+Output:
+I - 3
+am - 1
+a - 1
+sample - 2
+file - 1
+like - 2
+to - 2
+be - 2
+simple - 1
+but - 1
+not - 1
+in - 1
+dropbox - 1

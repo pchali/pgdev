@@ -1,0 +1,27 @@
+------------------------------------------------------------------
+Home Work 2 -- JAVA File Program -- Due 8/7/2014 9:00 PM
+------------------------------------------------------------------
+
+WARNING: N/A
+
+NOTE: 
+1) Program should run on a sample.txt file and display results
+2) Save your  java projects in this directory:
+    c:\git_projects\pgdev\gow_Java\homework_solutions
+
+YOU COMPLETED THIS STEP ALREADY - Make sure all the punctuation are avoided
+I) Write a Java program that reads a file "sample.txt" which has several lines of text in it. 
+The program should print the list of all the unique words in the text along with the number of times each word appears.
+
+II) For today, you will expand on the above program to do the following:
+
+1) for any large text inside sample.txt, print top 10 most used words (Note, punctuation and case should be ignored)
+2) You should exclude 100 most common words used in english language, listed in this page:
+http://en.wikipedia.org/wiki/Most_common_words_in_English
+Note: you can create another text file with the above words to read in the file into another array / table
+
+Example:
+Copy and paste any  text from internet / news in to a sample.txt file
+
+
+This program can be used to quickly tell what the news is generally talking about. Good luck
