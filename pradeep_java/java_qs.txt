@@ -1,0 +1,14 @@
+
+8/13/2014
+-------------------
+How do you generate a random number between 0 and 25 in Java?
+
+
+What will be the value of MX after the following  piece of code executes? (Use only a pen and paper, not computer)
+
+for (i=0;i<10; i++) {
+ for (j=0; j<10; j++) {
+   MX = MX + i - j;
+  }
+ }
+
