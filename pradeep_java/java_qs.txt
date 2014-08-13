@@ -1,6 +1,9 @@
 
 8/13/2014
 -------------------
+
+What is HEAP in Java?
+
 How do you generate a random number between 0 and 25 in Java?
 
 
