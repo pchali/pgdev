@@ -1,8 +1,18 @@
 
+8/16/2014
+-------------------
+Are all the object references of the same size?
+
+
 8/13/2014
 -------------------
 
 What is HEAP in Java?
+
+what is .jar file? why is it used?
+what is manifest?
+
+what is the difference between PERL variable and JAVA variable?
 
 How do you generate a random number between 0 and 25 in Java?
 
