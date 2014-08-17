@@ -3,6 +3,15 @@
 -------------------
 Are all the object references of the same size?
 
+What  happens when you declare a variable "final"
+
+If a method has a return value, is it legal to call the method without assigning the return value to another variable?
+
+What is the default scope of a method in a Java class (PP)
+
+In Java, what are the default values of the following if you don't initialize?
+
+int, float, boolean, reference
 
 8/13/2014
 -------------------
