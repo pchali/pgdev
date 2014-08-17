@@ -12,6 +12,9 @@ What is the default scope of a method in a Java class (PP)
 In Java, what are the default values of the following if you don't initialize?
 
 int, float, boolean, reference
+(pitfall: Local or instance?)
+
+Java is always "pass by value". What is the difference between PbV and PbR?
 
 8/13/2014
 -------------------
