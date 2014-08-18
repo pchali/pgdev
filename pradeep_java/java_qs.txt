@@ -1,3 +1,11 @@
+8/17/2014
+-------------------
+You need to write a program to guess the position of a number in an array of 100 integers.
+What are the variables / data structures you need for this program.
+
+What is the difference between git fetch and git pull
+what is the differnece between git fork, git clone, git branch
+
 
 8/16/2014
 -------------------
